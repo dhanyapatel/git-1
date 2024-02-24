@@ -1,4 +1,4 @@
-class abc
+klk,mclass abc
 {
     run|debug
     public static void main(String args[])
